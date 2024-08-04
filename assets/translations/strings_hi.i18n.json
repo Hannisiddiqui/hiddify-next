@@ -5,6 +5,9 @@
     "toggle": {
       "enabled": "सक्रिय",
       "disabled": "असक्रिय"
+    },
+    "state": {
+      "disable": "असक्रिय करें"
     }
   }
 }

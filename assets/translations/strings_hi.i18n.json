@@ -91,5 +91,47 @@
       "successMsg": "प्रोफाइल को सफलतापूर्वक अपडेट किया गया",
       "namedFailureMsg": "\"${name}\" को अपडेट करने में विफल"
     }
+  },
+  "config": {
+    "resolveDestination": "गंतव्य का समाधान करें",
+    "ipv6Mode": "IPv6 रूट",
+    "ipv6Modes": {
+      "disable": "अक्षम करना",
+      "enable": "सक्षम",
+      "prefer": "पसंदीदा"
+    },
+    "mtu": "पैकेट आकार (MTU)",
+    "urlTestInterval": "यूआरएल परीक्षण अंतराल",
+    "clashApiPort": "क्लैश एपीआई पोर्ट",
+    "enableTun": "TUN सक्षम करें",
+    "setSystemProxy": "सिस्टम प्रॉक्सी सेट करें",
+    "enableDnsRouting": "DNS रूटिंग सक्षम करें",
+    "enableFakeDns": "नकली DNS सक्षम करें",
+    "bypassLan": "बाईपास लैन",
+    "strictRoute": "सख्त मार्ग",
+    "enableTlsFragment": "TLS फ़्रैगमेंट सक्षम करें",
+    "tlsFragmentSize": "TLS खंड आकार",
+    "tlsFragmentSleep": "टीएलएस फ़्रैगमेंट स्लीप",
+    "enableTlsMixedSniCase": "TLS मिश्रित SNI केस सक्षम करें",
+    "enableTlsPadding": "TLS पैडिंग सक्षम करें",
+    "tlsPaddingSize": "टीएलएस पैडिंग",
+    "enableMux": "Mux सक्षम करें",
+    "muxProtocol": "मक्स प्रोटोकॉल",
+    "muxMaxStreams": "अधिकतम समवर्ती धाराएँ",
+    "enableWarp": "WARP सक्षम करें",
+    "warpDetourMode": "चक्कर मोड",
+    "warpDetourModes": {
+      "proxyOverWarp": "WARP के माध्यम से प्रॉक्सी का चक्कर लगाएं",
+      "warpOverProxy": "प्रॉक्सी के माध्यम से WARP का चक्कर लगाएं",
+      "inbound": "प्रॉक्सी के माध्यम से WARP का चक्कर लगाएं",
+      "outbound": "WARP के माध्यम से प्रॉक्सी का चक्कर लगाएं"
+    },
+    "warpLicenseKey": "लाइसेंस Key",
+    "warpCleanIp": "Clean आईपी",
+    "warpPort": "पत्तन",
+    "warpNoise": "शोर गिनती",
+    "warpNoiseSize": "शोर का आकार",
+    "warpNoiseMode": "शोर मोड",
+    "warpNoiseDelay": "शोर विलंब"
   }
 }

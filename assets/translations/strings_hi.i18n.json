@@ -14,6 +14,22 @@
     "addToClipboard": "क्लिपबोर्ड में जोड़ें",
     "notSet": "सेट नहीं",
     "agree": "स्वीकार करना",
-    "decline": "अस्वीकार करना"
+    "decline": "अस्वीकार करना",
+    "unknown": "अपरिचित",
+    "hidden": "छिपा हुआ",
+    "timeout": "टाइम-आउट",
+    "clipboardExportSuccessMsg": "क्लिपबोर्ड में जोड़ा गया",
+    "showMore": "और दिखाओ",
+    "showLess": "कम दिखाएं",
+    "openAppSettings": "ऐप सेटिंग खोलें",
+    "grantPermission": "अनुदान अनुमति"
+  },
+  "intro": {
+    "termsAndPolicyCaution(rich)": "जारी रखते हुए आप ${tap(about.termsAndConditions)} से सहमत हैं",
+    "start": "शुरू करें"
+  },
+  "home": {
+    "pageTitle": "होम ",
+    "emptyProfilesMsg": "सदस्यता प्रोफ़ाइल जोड़कर आरंभ करें"
   }
 }

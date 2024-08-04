@@ -30,6 +30,17 @@
   },
   "home": {
     "pageTitle": "होम ",
-    "emptyProfilesMsg": "सदस्यता प्रोफ़ाइल जोड़कर आरंभ करें"
+    "emptyProfilesMsg": "सदस्यता प्रोफ़ाइल जोड़कर आरंभ करें",
+    "noActiveProfileMsg": "एक प्रोफ़ाइल चुनें"
+  },
+  "stats": {
+    "traffic": "ट्रैफ़िक",
+    "trafficLive": "लाइव ट्रैफ़िक",
+    "trafficTotal": "कुल ट्रैफ़िक",
+    "uplink": "अपलिंक",
+    "downlink": "डाउनलिंक",
+    "connection": "जोड़",
+    "speed": "रफ़्तार",
+    "totalTransferred": "कुल स्थानांतरित"
   }
 }

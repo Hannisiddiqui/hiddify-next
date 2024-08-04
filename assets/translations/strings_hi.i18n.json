@@ -3,7 +3,8 @@
     "appTitle": "हिडिफाई",
     "reset": "रीसेट",
     "toggle": {
-      "enabled": "सक्रिय"
+      "enabled": "सक्रिय",
+      "disabled": "असक्रिय"
     }
   }
 }

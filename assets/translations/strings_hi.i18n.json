@@ -45,6 +45,18 @@
   },
   "profile": {
     "overviewPageTitle": "प्रोफाइल",
-    "detailsPageTitle": "प्रोफ़ाइल"
+    "detailsPageTitle": "प्रोफ़ाइल",
+    "activeProfileNameSemanticLabel": "सक्रिय प्रोफ़ाइल नाम: \"${name}\".",
+    "activeProfileBtnSemanticLabel": "सभी प्रोफाइल देखें",
+    "nonActiveProfileBtnSemanticLabel": "सक्रिय प्रोफ़ाइल के रूप में \"${name}\" चुनें",
+    "subscription": {
+      "traffic": "ट्रैफ़िक",
+      "updatedTimeAgo": "अपडेट किया गया ${timeago}",
+      "remainingDuration": "${duration} शेष दिन",
+      "remainingTrafficSemanticLabel": "${total} में से ${consumed} ट्रैफ़िक की खपत",
+      "expired": "खत्म हो चुका",
+      "noTraffic": "कोटा से बाहर",
+      "upload": "डालना"
+    }
   }
 }

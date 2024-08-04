@@ -93,12 +93,22 @@
     }
   },
   "config": {
+    "warpConsent": {
+      "description(rich)": "क्लाउडफ्लेयर WARP एक निःशुल्क वायरगार्ड VPN प्रदाता है। इस विकल्प को सक्षम करके आप क्लाउडफ्लेयर WARP की ${tos(सेवा की शर्तें)} और ${गोपनीयता(गोपनीयता नीति)} से सहमत हो रहे हैं।"
+    },
+    "generateWarpConfig": "WARP कॉन्फ़िगरेशन उत्पन्न करें",
+    "missingWarpConfig": "WARP कॉन्फ़िगरेशन अनुपलब्ध",
+    "warpConfigGenerated": "WARP कॉन्फ़िगरेशन उत्पन्न हुआ",
+    "pageTitle": "कॉन्फ़िगरेशन विकल्प",
+    "logLevel": "छांटने का स्तर",
+    "blockAds": "Ads ब्लॉक करें",
     "resolveDestination": "गंतव्य का समाधान करें",
     "ipv6Mode": "IPv6 रूट",
     "ipv6Modes": {
       "disable": "अक्षम करना",
       "enable": "सक्षम",
-      "prefer": "पसंदीदा"
+      "prefer": "पसंदीदा",
+      "only": "अनन्य"
     },
     "remoteDnsAddress": "रिमोट डीएनएस",
     "remoteDnsDomainStrategy": "रिमोट DNS डोमेन रणनीति",

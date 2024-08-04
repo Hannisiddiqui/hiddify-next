@@ -1,6 +1,9 @@
 {
   "general": {
     "appTitle": "हिडिफाई",
-    "reset": "रीसेट"
+    "reset": "रीसेट",
+    "toggle": {
+      "enabled": "सक्रिय"
+    }
   }
 }

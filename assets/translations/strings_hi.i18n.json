@@ -42,5 +42,9 @@
     "connection": "जोड़",
     "speed": "रफ़्तार",
     "totalTransferred": "कुल स्थानांतरित"
+  },
+  "profile": {
+    "overviewPageTitle": "प्रोफाइल",
+    "detailsPageTitle": "प्रोफ़ाइल"
   }
 }
